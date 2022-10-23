@@ -1,7 +1,7 @@
 # x7z0.github.io
 **Some javascript modules for 【Me-Dic】**
 
-最新版本 1.0.0
+最新版本 [1.0.0](/1.0.0/api.js)
 
 🎉[Medic官方文档](http://www.medicxd.top)🎈
 [个人主页](http://x7z.cc)🎀
