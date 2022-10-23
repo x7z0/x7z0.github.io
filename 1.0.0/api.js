@@ -1,3 +1,4 @@
+//mejs第三方mod
 class qq {
   constructor(){}
   test1() {
